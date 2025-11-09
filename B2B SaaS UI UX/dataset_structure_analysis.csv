@@ -1,0 +1,21 @@
+Dataset Name,Primary Perspective,Sample Size,Key Fields/Variables,Data Type
+ACSI (American Customer Satisfaction Index),User (Customer),"8,239 (sample); 400K annually","SATIS, CONFIRM, IDEAL, OVERALLX, CUSTOMX, WRONGX, OVERALLQ, CUSTOMQ, WRONGQ, PQ, QP, COMP, HANDLE, REPUR, HIGHPTOL, LOWPTOL, AGE, EDUCAT, INCOME, GENDER",Survey (Likert 1-10 scale)
+Stack Overflow Developer Survey 2025,User (Developer/End-user),"49,000+","Programming languages, Tools used, AI adoption, Satisfaction, Frustration, Want to use, Developer type, Experience, Salary",Survey (Multiple formats)
+World Bank Enterprise Survey,Seller (Business/Firm),"58,000+ firms, 82 countries","Sales, Labor, Capital, Materials, Investment, Email_adoption, Website_adoption, Export_status, Manager_experience, Productivity (TFPR)",Survey + Firm Records
+G2 Software Reviews,User (B2B Software Buyer),"1.9M+ reviews, 37K products","Overall_rating, Ease_of_use, Implementation_score, Satisfaction, Feature_breadth, Review_text, Company_size, Industry, Use_case",Reviews + Ratings
+Capterra Software Reviews,User (B2B Software Buyer),"2M+ reviews, 36K products","Overall_rating, Ease_of_use, Features_rating, Support_rating, Value_for_money, Review_text, Reviewer_role, Company_size",Reviews + Ratings
+Mendeley SaaS Customer Experience,User (SaaS Customer),50,"Response_time_preference, Live_chat_satisfaction, Agent_knowledge, AI_integration_attitude, Industry, Company_size",Survey (Mixed methods)
+CrUX (Chrome User Experience Report),User (Web Visitor),Millions (daily),"LCP (Largest Contentful Paint), INP (Interaction to Next Paint), CLS (Cumulative Layout Shift), FCP, TTFB, Device_type, Connection_type",Real User Monitoring (RUM)
+HG Insights CRM Market Report,Seller (Market Intelligence),1.4M companies,"Market_size, Adoption_rate, Company_count, Purchasing_criteria, Buyer_profile, Implementation_time, Ease_of_use_mentions",Market Intelligence Report
+HG Insights ERP Market Report,Seller (Market Intelligence),3.8M companies,"Market_size, Adoption_rate, Company_count, Complexity_barriers, Implementation_challenges, User_demographics",Market Intelligence Report
+Top 100 SaaS Companies (Kaggle),Seller (Company Performance),100,"Company_name, Valuation, ARR, Growth_rate, Employees, Industry_category, Founding_year",Firm Financial Data
+Customer Satisfaction 10K (Kaggle),User (Customer),"10,000+","Satisfaction_score, Loyalty, Likelihood_to_renew, Complaint_status, Service_quality, Resolution_time",Survey/CRM Records
+Mendeley UI/UX Dataset,User (Digital Platform User),"2,271","UI_preference, UX_satisfaction, Platform_type, Interaction_quality, Ease_of_use, Feature_clarity",Survey (Likert scale)
+Airtable Enterprise Metrics,Seller (SaaS Company),Company-level (166K+ orgs),"ARR, NDR, NRR, YoY_growth, Enterprise_customers, Feature_adoption_rate, Manual_reduction_pct, Campaign_speed_multiplier",Company Performance Metrics
+Churnzero Study,Seller (SaaS Benchmarks),Aggregate (benchmark),"Feature_adoption_70pct_retention, Engagement_score, Churn_likelihood",Benchmark Report
+Userpilot Benchmark,Seller (SaaS Product Analytics),181 companies,"Core_feature_adoption_rate (24.5% avg), Secondary_feature_adoption, Revenue_concentration (80/20), Industry_benchmarks",Product Analytics Aggregate
+Wudpecker Benchmarks,Seller (SaaS Benchmarks),Aggregate (benchmark),"Median_NRR (106%), High_adoption_NRR (115-125%), Retention_by_adoption_level",Benchmark Report
+McKinsey State of AI,Seller (Enterprise Adoption),Global survey (1000s),"AI_adoption_rate, GenAI_usage (71%), Function_penetration, ROI_realization, Productivity_gains (10-15%)",Enterprise Survey
+Deloitte GenAI Enterprise,Seller (Enterprise Adoption),"2,800+ leaders","GenAI_adoption_trend (33%→71%), Use_case_maturity, Organizational_barriers, ROI_expectations",Leadership Survey
+Gartner Magic Quadrant CRM,Seller (Analyst Evaluation),Vendor evaluation,"Vendor_positioning, Capability_scores, Market_presence, UX_weight_in_criteria (5-10%)",Analyst Evaluation
+Forrester Digital UX Review,Seller (Analyst Methodology),Methodology framework,"Heuristic_evaluation_framework, Expert_review_methodology, UX_assessment_criteria",Methodology Framework
