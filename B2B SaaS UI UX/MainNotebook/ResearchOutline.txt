@@ -1,0 +1,71 @@
+User Behaviour → User Experience (Causal)
+
+Core Logic / Assumption:
+
+UX → Perception → Emotion(check) → Behaviour → Business Outcome
+
+Background:
+The legacy of functionality first in B2B software has led to powerful, feature dense products. Although this means, they are clunky, unintuitive, and require a lot of training for it’s users. 
+Why? (my opinion) Organisational disconnect. 
+The buyer? → IT Department
+The user? → Sales people, Marketers, Accountants etc. 
+Usability by employees was an afterthought – (Quality of Life Category)
+
+The Consumerization Shockwave:
+
+→ Spotify, Netflix, Uber – Key quality? → Seamless, Intuitive, Short TTV (Time to value)
+
+UX as a Business imperative:
+
+Measure UX by lower CES (Consumer Effort Score) and low TTV. → Leads to Higher Adoption → Leads to Higher NRR (Net Revenue Retention) → higher CLV (Customer Lifetime Value) → Higher CLV: CAC ratio (CAC → Customer Acquisition Cost)
+
+Experience to Value: (Behaviour Outcomes)
+
+Engage with Sticky features, then Product → Indispensable
+→ Segregate between core and Ancillary Features. 
+
+Psychological Principles: 
+Cognitive Load Theory → Progressive Disclosure of Options
+Principle of Least Effort → Maximize user to Act
+
+Problem in B2B Software: 
+Productivity loss
+Increased training and Support cost
+Shelfware
+Data Integrity
+
+B2B should learn from PLG (Product Led Growth) as used in B2C SaaS. 
+
+Case Studies: 
+Salesforce
+Atlassian
+Adobe
+Nokia
+Extreme Networks
+
+To Figure:
+Lagging Indicators
+Leading indicators
+Technology Acceptance Model
+
+
+Research Questions:
+To what extent does the consumerization of IT influence the priority of UX in the purchasing and Evaluation Criteria for modern B2B SaaS platforms, compared to traditional solutions?
+How does improved UX, measured by usability heuristics correlate with the adoption rates for both core and secondary features in B2B software?
+Relationship between the feature adoption rates and key business metrics as churn or NRR?
+
+References:
+Industrial Product management – Book – Library
+Proquest – Library access
+Ebsco – Library Access
+
+Technology Acceptance Model:
+Planned Behavior
+Theory of Reasoned Action
+Unified Theory.. 
+
+Keywords:
+B2B Tech Usability. 
+B2C bias in B2B world ( paper - google scholar)
+
+
