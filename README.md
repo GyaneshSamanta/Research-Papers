@@ -1,71 +1,97 @@
-# 🚀 Research Papers & Academic Projects
+# Research Papers & Academic Projects
 
-Welcome to the central repository of my research work, spanning **Cybersecurity**, **UI/UX Analytics**, **IoT Security**, and **Data Science**. This collection represents a blend of published papers, international conference presentations, and quantitative technical explorations.
+> **Seven research projects, three IEEE conference publications, 15+ citations — spanning cybersecurity, IoT, UX analytics, and public policy.**
 
----
+![Hero](https://images.unsplash.com/photo-1532153975070-2e9ab71f1b14?w=1200&h=400&fit=crop)
 
-## 👨‍🔬 Author: Gyanesh Samanta
-**Product Manager | Developer | Researcher**
-
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?logo=google-scholar&style=for-the-badge)](https://scholar.google.com/citations?user=3clCqa4AAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gyanesh-samanta/)
-[![Citations](https://img.shields.io/badge/Citations-15+-orange?style=for-the-badge)](https://scholar.google.com/citations?user=3clCqa4AAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Scholar-Profile-blue?logo=google-scholar)](https://scholar.google.com/citations?user=3clCqa4AAAAJ&hl=en)
+[![Citations](https://img.shields.io/badge/citations-15%2B-orange)](https://scholar.google.com/citations?user=3clCqa4AAAAJ&hl=en)
+[![Papers](https://img.shields.io/badge/papers-7-green)]()
 
 ---
 
-## 📊 Academic Impact & Publications
-| Year | Venue | Paper Title | Citations |
-| :--- | :--- | :--- | :---: |
+## About
+
+**Who:** Gyanesh Samanta — Product Manager, Developer, and Researcher.
+**What:** A central archive of academic research papers and quantitative explorations across cybersecurity, IoT, UX analytics, and public policy.
+**When:** Papers span 2022–2025; archive is actively maintained.
+**Where:** Three works published / presented at IEEE-indexed international conferences (ICECAA, ICNWC, ICCP); others are working drafts.
+**Why:** To consolidate scattered research artifacts into one citable, browsable portfolio that demonstrates rigor across disparate domains.
+
+## The Story
+
+Research, like product, is about asking *the right question*. This portfolio reflects an attempt to ask sharp questions across very different fields:
+
+- *Can we predict spyware before it executes?* — **Pegasus Attack System** (ICECAA 2023, **10 citations**)
+- *Can NFT prices be modeled with metadata alone?* — **NFT Marketplace** (ICNWC 2023, **5 citations**)
+- *Can biology secure IoT?* — **DNAIoT** (ICCP 2022)
+- *Does UX investment actually reduce churn?* — **B2B SaaS UI UX**: yes — by **~23%** (hazard ratio reduction, survival analysis on 200+ enterprise users)
+- *Is the NYPD's stop data demographically biased?* — **NYC Shootings** statistical study
+
+Across the seven projects, the methodological core is consistent: real datasets, statistical rigor (survival analysis, ROC-AUC, hazard ratios), and a published or presentable artifact at the end.
+
+### Publications
+
+| Year | Venue | Paper | Citations |
+|---|---|---|---|
 | 2023 | **ICECAA** | [Pegasus spyware: A vulnerable behaviour-based attack system](https://scholar.google.com/citations?view_op=view_citation&citation_for_view=3clCqa4AAAAJ:u-x6o8ySG0sC) | 10 |
-| 2023 | **ICNWC** | [An NFT marketplace with predictive and analytical modeling on industry trends...](https://scholar.google.com/citations?view_op=view_citation&citation_for_view=3clCqa4AAAAJ:d1gSdeFyWh8C) | 5 |
-| 2022 | **ICCP** | [DNAIoT-Dynamic Network Architecture for IoT](https://scholar.google.com/citations?view_op=view_citation&citation_for_view=3clCqa4AAAAJ:u5HHmZfYveMC) | - |
+| 2023 | **ICNWC** | [NFT marketplace with predictive analytics](https://scholar.google.com/citations?view_op=view_citation&citation_for_view=3clCqa4AAAAJ:d1gSdeFyWh8C) | 5 |
+| 2022 | **ICCP** | [DNAIoT — Dynamic Network Architecture for IoT](https://scholar.google.com/citations?view_op=view_citation&citation_for_view=3clCqa4AAAAJ:u5HHmZfYveMC) | – |
+
+## Gallery
+
+| Project | Domain | Highlight |
+|---|---|---|
+| [B2B SaaS UI UX](./B2B%20SaaS%20UI%20UX) | Product Analytics | UX investment reduces churn ~23% |
+| [Pegasus Attack System](./Pegasus%20An%20Attack%20System%20Artemis) | Cybersecurity | ICECAA 2023, 10 citations |
+| [DNAIoT](./DNAIoT) | IoT Security | DNA computing for IoT (ICCP 2022) |
+| [NFTs](./NFTs) | Data Science | Predictive NFT value modeling (ICNWC 2023) |
+| [LaDe](./LaDe) | Network Defense | Layered Defense mechanisms |
+| [NYC Shootings](./NYC%20Shootings%20Xavier%20Law%20Conference) | Public Policy | NYPD demographic disparity study |
+| [PDT Breach & Mitigation](./PDT%20Breach%20and%20Mitigation) | Logistics | Promise Delivery Time optimization |
 
 ---
 
-## 📂 Repository Roadmap
+## Tech Stack
 
-| Project / Directory | Domain | Key Highlights | Emojis |
-| :--- | :--- | :--- | :---: |
-| [**B2B SaaS UI UX**](./B2B%20SaaS%20UI%20UX) | Product Analytics | Investigating "Consumerization of Enterprise Software." Proves UX investment reduces churn by ~23%. | 📈 🎨 |
-| [**Pegasus Attack System**](./Pegasus%20An%20Attack%20System%20Artemis) | Cybersecurity | Analysis of advanced spyware behaviour. Presented at ICECAA 2023. | 🕵️‍♂️ 🛡️ |
-| [**DNAIoT**](./DNAIoT) | IoT Security | DNA Computing for secure IoT architectures. Published at ICCP 2022. | 🧬 � |
-| [**NFTs**](./NFTs) | Data Science | Predictive modeling for NFT value potential. Presented at ICNWC 2023. | 💎 📊 |
-| [**LaDe**](./LaDe) | Network Defense | Layered Defense (LaDe) mechanisms for resilient infrastructure. | 🏗️ �️ |
-| [**NYC Shootings Analysis**](./NYC%20Shootings%20Xavier%20Law%20Conference) | Public Policy | Statistical analysis of demographic disparities in NYPD data. | 🚔 ⚖️ |
-| [**PDT Breach & Mitigation**](./PDT%20Breach%20and%20Mitigation) | Logistics | Optimizing "Promise Delivery Time" in E-commerce workflows. | 📦 ⚡ |
+- **Languages:** Python, R, SQL
+- **Analytics:** scikit-learn, pandas, Lifelines (survival analysis)
+- **Visualization:** Seaborn, Plotly, Matplotlib
+- **Research tooling:** LaTeX, Jupyter, Zotero
+- **Domain methods:** DNA computing, hazard-ratio modeling, ROC-AUC, System Usability Scale (SUS)
 
----
+## Repo Structure
 
-## 🔍 Detailed Directory Overviews
+```
+Research-Papers/
+├── B2B SaaS UI UX/
+├── DNAIoT/
+├── LaDe/
+├── NFTs/
+├── NYC Shootings Xavier Law Conference/
+├── PDT Breach and Mitigation/
+├── Pegasus An Attack System Artemis/
+├── LICENSE
+└── README.md
+```
 
-### 1. 📈 [B2B SaaS UI/UX Research](./B2B%20SaaS%20UI%20UX)
-A quantitative exploration of how UX design impacts business health in the enterprise sector.
-*   **Outcome:** Proved that UX Investment directly lowers **Hazard Ratios** (Churn Risk) by 23%.
-*   **Keywords:** Survival Analysis, System Usability Scale (SUS), ROC-AUC.
+## Getting Started
 
-### 2. 🕵️‍♂️ [Pegasus: Behaviour-Based Attack System](./Pegasus%20An%20Attack%20System%20Artemis)
-Published in the **2023 2nd International Conference on Edge Computing and Applications (ICECAA)**.
-*   **Focus:** Reverse-engineering behavioral fingerprints of zero-click spyware to develop predictive defense mechanisms.
+```bash
+git clone https://github.com/GyaneshSamanta/Research-Papers.git
+cd Research-Papers
+```
 
-### 3. 🧬 [DNA-IoT Security Framework](./DNAIoT)
-Published in **ICCP 2022**.
-*   **Innovation:** Using bio-inspired DNA computing to secure resource-constrained IoT nodes against modern cyber-threats.
+Each subdirectory contains its own paper PDF / DOCX, datasets, and (where applicable) analysis scripts. Open the directory matching the topic of interest.
 
-### 4. � [Predictive NFT Marketplace](./NFTs)
-Presented at **ICNWC 2023**.
-*   **Focus:** Machine learning models that analyze metadata and volume trends to predict "uprising value" in digital assets.
+## Contributing
 
----
+This is an authored research archive — direct PRs aren't expected. Feedback, replication attempts, and collaboration inquiries are welcome via Issues or LinkedIn.
 
-## 🛠 Tech Stack & Methodologies
-*   **Languages:** `Python`, `R`, `SQL`
-*   **Analytics:** `Scikit-Learn`, `Pandas`, `Lifelines` (Survival Analysis), `DNA Computing`
-*   **Visualization:** `Seaborn`, `Plotly`, `Matplotlib`
-*   **Research:** `LaTeX`, `Jupyter`, `Zotero`
+## License
 
----
+See [`LICENSE`](./LICENSE). Papers retain their respective publisher copyrights where applicable.
 
-## 📬 Contact
-Interested in collaboration? Reach out via [Gmail](mailto:mail.gyaneshsamanta@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/gyanesh-samanta/).
+## Credits
 
-Happy Researching! 🍏
+Authored by **Gyanesh Samanta** ([@GyaneshSamanta](https://github.com/GyaneshSamanta)). Connect via [LinkedIn](https://www.linkedin.com/in/gyanesh-samanta/) or [email](mailto:mail.gyaneshsamanta@gmail.com).
